@@ -1,0 +1,35 @@
+name: signwave_app
+description: A new Flutter project.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  http: 1.2.2  # Added http dependency for network requests
+  flutter_3d_objects: ^1.0.1+1
+  model_viewer_plus: ^1.9.0
+  permission_handler: ^11.3.1 # For handling microphone permissions
+  speech_to_text: ^7.0.0
+  image_picker: ^1.1.2
+  video_player: ^2.9.2
+
+  #speech_to_text: ^5.6.1  # For speech recognition
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0  # Added flutter_lints for linting rules
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/logo.png
+    - assets/models/thinking.glb
