@@ -2,6 +2,9 @@
 # Tumaini Flutter App
 
 This project is a Flutter application that can be run on iOS, Android, and the web. Follow the steps below to get started with cloning and running the app on your local machine.
+This project is an extension to help the deaf enjoy social media platforms like tiktok using an avatar to make them updated.
+Below is a link of the pitch and demo
+https://drive.google.com/drive/folders/1horY9Nr_5DjO6eSHCayaIdIdfj6RMCU2?usp=drive_link
 
 ## Table of Contents
 - [Prerequisites](#prerequisites)
